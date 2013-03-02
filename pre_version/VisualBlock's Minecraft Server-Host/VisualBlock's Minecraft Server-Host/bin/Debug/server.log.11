@@ -1,0 +1,8 @@
+2013-02-23 21:34:10 [INFO] Starting minecraft server version 1.4.7
+2013-02-23 21:34:10 [INFO] Loading properties
+2013-02-23 21:34:10 [INFO] Default game type: SURVIVAL
+2013-02-23 21:34:10 [INFO] Generating keypair
+2013-02-23 21:34:11 [INFO] Starting Minecraft server on *:25565
+2013-02-23 21:34:11 [WARNING] **** FAILED TO BIND TO PORT!
+2013-02-23 21:34:11 [WARNING] The exception was: java.net.BindException: Address already in use: JVM_Bind
+2013-02-23 21:34:11 [WARNING] Perhaps a server is already running on that port?

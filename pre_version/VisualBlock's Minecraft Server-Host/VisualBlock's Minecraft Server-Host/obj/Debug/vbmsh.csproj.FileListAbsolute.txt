@@ -1,0 +1,13 @@
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\bin\Debug\VBMSH.exe.config
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\bin\Debug\VBMSH.exe
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\bin\Debug\VBMSH.pdb
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\obj\Debug\VBMSH.installServ.resources
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\obj\Debug\VBMSH.Properties.Resources.resources
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\obj\Debug\VBMSH.serverScreen.resources
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\obj\Debug\vbmsh.csproj.GenerateResource.Cache
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\obj\Debug\VBMSH.exe
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\obj\Debug\VBMSH.pdb
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\obj\Debug\vbmsh.csprojResolveAssemblyReference.cache
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\TFS Projekte\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\bin\Debug\VBMSH.exe.config
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\TFS Projekte\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\obj\Debug\VBMSH.exe
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\TFS Projekte\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\obj\Debug\VBMSH.pdb

@@ -1,0 +1,251 @@
+2013-02-23 19:08:39 [INFO] Starting minecraft server version 1.4.7
+2013-02-23 19:08:39 [INFO] Loading properties
+2013-02-23 19:08:39 [WARNING] server.properties does not exist
+2013-02-23 19:08:39 [INFO] Generating new properties file
+2013-02-23 19:08:39 [INFO] Default game type: SURVIVAL
+2013-02-23 19:08:39 [INFO] Generating keypair
+2013-02-23 19:08:39 [INFO] Starting Minecraft server on *:25565
+2013-02-23 19:08:39 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (Das System kann die angegebene Datei nicht finden)
+2013-02-23 19:08:39 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (Das System kann die angegebene Datei nicht finden)
+2013-02-23 19:08:39 [INFO] Preparing level "world"
+2013-02-23 19:08:40 [INFO] Preparing start region for level 0
+2013-02-23 19:08:41 [INFO] Preparing spawn area: 16%
+2013-02-23 19:08:42 [INFO] Preparing spawn area: 29%
+2013-02-23 19:08:43 [INFO] Preparing spawn area: 39%
+2013-02-23 19:08:44 [INFO] Preparing spawn area: 50%
+2013-02-23 19:08:45 [INFO] Preparing spawn area: 62%
+2013-02-23 19:08:46 [INFO] Preparing spawn area: 76%
+2013-02-23 19:08:47 [INFO] Preparing spawn area: 91%
+2013-02-23 19:08:47 [INFO] Done (7,900s)! For help, type "help" or "?"
+2013-02-23 19:40:32 [INFO] Starting minecraft server version 1.4.7
+2013-02-23 19:40:32 [INFO] Loading properties
+2013-02-23 19:40:32 [INFO] Default game type: SURVIVAL
+2013-02-23 19:40:32 [INFO] Generating keypair
+2013-02-23 19:40:32 [INFO] Starting Minecraft server on *:25565
+2013-02-23 19:40:32 [INFO] Preparing level "world"
+2013-02-23 19:40:32 [INFO] Preparing start region for level 0
+2013-02-23 19:40:33 [INFO] Done (0,820s)! For help, type "help" or "?"
+2013-02-23 19:40:36 [INFO] Stopping server
+2013-02-23 19:40:36 [INFO] Saving players
+2013-02-23 19:40:36 [INFO] Saving worlds
+2013-02-23 19:40:36 [INFO] Saving chunks for level 'world'/Overworld
+2013-02-23 19:40:36 [INFO] Saving chunks for level 'world'/Nether
+2013-02-23 19:40:36 [INFO] Saving chunks for level 'world'/The End
+2013-02-23 19:57:01 [INFO] Starting minecraft server version 1.4.7
+2013-02-23 19:57:01 [INFO] Loading properties
+2013-02-23 19:57:01 [INFO] Default game type: SURVIVAL
+2013-02-23 19:57:01 [INFO] Generating keypair
+2013-02-23 19:57:01 [INFO] Starting Minecraft server on *:25565
+2013-02-23 19:57:01 [INFO] Preparing level "world"
+2013-02-23 19:57:01 [INFO] Preparing start region for level 0
+2013-02-23 19:57:02 [INFO] Done (0,784s)! For help, type "help" or "?"
+2013-02-23 19:57:10 [INFO] Stopping server
+2013-02-23 19:57:10 [INFO] Saving players
+2013-02-23 19:57:10 [INFO] Saving worlds
+2013-02-23 19:57:10 [INFO] Saving chunks for level 'world'/Overworld
+2013-02-23 19:57:10 [INFO] Saving chunks for level 'world'/Nether
+2013-02-23 19:57:10 [INFO] Saving chunks for level 'world'/The End
+2013-02-23 19:57:35 [INFO] Starting minecraft server version 1.4.7
+2013-02-23 19:57:35 [INFO] Loading properties
+2013-02-23 19:57:35 [INFO] Default game type: SURVIVAL
+2013-02-23 19:57:35 [INFO] Generating keypair
+2013-02-23 19:57:36 [INFO] Starting Minecraft server on *:25565
+2013-02-23 19:57:36 [INFO] Preparing level "world"
+2013-02-23 19:57:36 [INFO] Preparing start region for level 0
+2013-02-23 19:57:37 [INFO] Done (0,741s)! For help, type "help" or "?"
+2013-02-23 19:57:39 [INFO] Stopping server
+2013-02-23 19:57:39 [INFO] Saving players
+2013-02-23 19:57:39 [INFO] Saving worlds
+2013-02-23 19:57:39 [INFO] Saving chunks for level 'world'/Overworld
+2013-02-23 19:57:39 [INFO] Saving chunks for level 'world'/Nether
+2013-02-23 19:57:39 [INFO] Saving chunks for level 'world'/The End
+2013-02-23 19:58:05 [INFO] Starting minecraft server version 1.4.7
+2013-02-23 19:58:05 [INFO] Loading properties
+2013-02-23 19:58:05 [INFO] Default game type: SURVIVAL
+2013-02-23 19:58:05 [INFO] Generating keypair
+2013-02-23 19:58:05 [INFO] Starting Minecraft server on *:25565
+2013-02-23 19:58:05 [INFO] Preparing level "world"
+2013-02-23 19:58:05 [INFO] Preparing start region for level 0
+2013-02-23 19:58:06 [INFO] Done (0,738s)! For help, type "help" or "?"
+2013-02-23 19:59:05 [INFO] TheletsplayerL[/127.0.0.1:6897] logged in with entity id 104 at (-245.5, 65.62000000476837, 248.5)
+2013-02-23 20:02:26 [INFO] Starting minecraft server version 1.4.7
+2013-02-23 20:02:26 [INFO] Loading properties
+2013-02-23 20:02:26 [INFO] Default game type: SURVIVAL
+2013-02-23 20:02:26 [INFO] Generating keypair
+2013-02-23 20:02:26 [INFO] Starting Minecraft server on *:25565
+2013-02-23 20:02:26 [INFO] Preparing level "world"
+2013-02-23 20:02:26 [INFO] Preparing start region for level 0
+2013-02-23 20:02:27 [INFO] Done (0,758s)! For help, type "help" or "?"
+2013-02-23 20:04:26 [INFO] Starting minecraft server version 1.4.7
+2013-02-23 20:04:26 [INFO] Loading properties
+2013-02-23 20:04:26 [INFO] Default game type: SURVIVAL
+2013-02-23 20:04:26 [INFO] Generating keypair
+2013-02-23 20:04:27 [INFO] Starting Minecraft server on *:25565
+2013-02-23 20:04:27 [INFO] Preparing level "world"
+2013-02-23 20:04:27 [INFO] Preparing start region for level 0
+2013-02-23 20:04:27 [INFO] Done (0,725s)! For help, type "help" or "?"
+2013-02-23 20:05:05 [INFO] Starting minecraft server version 1.4.7
+2013-02-23 20:05:05 [INFO] Loading properties
+2013-02-23 20:05:05 [INFO] Default game type: SURVIVAL
+2013-02-23 20:05:05 [INFO] Generating keypair
+2013-02-23 20:05:06 [INFO] Starting Minecraft server on *:25565
+2013-02-23 20:05:06 [INFO] Preparing level "world"
+2013-02-23 20:05:06 [INFO] Preparing start region for level 0
+2013-02-23 20:05:06 [INFO] Done (0,719s)! For help, type "help" or "?"
+2013-02-23 20:07:36 [INFO] Starting minecraft server version 1.4.7
+2013-02-23 20:07:36 [INFO] Loading properties
+2013-02-23 20:07:36 [INFO] Default game type: SURVIVAL
+2013-02-23 20:07:36 [INFO] Generating keypair
+2013-02-23 20:07:36 [INFO] Starting Minecraft server on *:25565
+2013-02-23 20:07:36 [INFO] Preparing level "world"
+2013-02-23 20:07:36 [INFO] Preparing start region for level 0
+2013-02-23 20:07:37 [INFO] Done (0,734s)! For help, type "help" or "?"
+2013-02-23 20:08:37 [INFO] Starting minecraft server version 1.4.7
+2013-02-23 20:08:37 [INFO] Loading properties
+2013-02-23 20:08:37 [INFO] Default game type: SURVIVAL
+2013-02-23 20:08:37 [INFO] Generating keypair
+2013-02-23 20:08:38 [INFO] Starting Minecraft server on *:25565
+2013-02-23 20:08:38 [INFO] Preparing level "world"
+2013-02-23 20:08:38 [INFO] Preparing start region for level 0
+2013-02-23 20:08:38 [INFO] Done (0,723s)! For help, type "help" or "?"
+2013-02-23 20:10:28 [INFO] Starting minecraft server version 1.4.7
+2013-02-23 20:10:28 [INFO] Loading properties
+2013-02-23 20:10:28 [INFO] Default game type: SURVIVAL
+2013-02-23 20:10:28 [INFO] Generating keypair
+2013-02-23 20:10:29 [INFO] Starting Minecraft server on *:25565
+2013-02-23 20:10:29 [INFO] Preparing level "world"
+2013-02-23 20:10:29 [INFO] Preparing start region for level 0
+2013-02-23 20:10:29 [INFO] Done (0,727s)! For help, type "help" or "?"
+2013-02-23 20:14:20 [INFO] Starting minecraft server version 1.4.7
+2013-02-23 20:14:20 [INFO] Loading properties
+2013-02-23 20:14:20 [INFO] Default game type: SURVIVAL
+2013-02-23 20:14:20 [INFO] Generating keypair
+2013-02-23 20:14:20 [INFO] Starting Minecraft server on *:25565
+2013-02-23 20:14:20 [INFO] Preparing level "world"
+2013-02-23 20:14:20 [INFO] Preparing start region for level 0
+2013-02-23 20:14:21 [INFO] Done (0,776s)! For help, type "help" or "?"
+2013-02-23 20:20:01 [INFO] Starting minecraft server version 1.4.7
+2013-02-23 20:20:01 [INFO] Loading properties
+2013-02-23 20:20:01 [INFO] Default game type: SURVIVAL
+2013-02-23 20:20:01 [INFO] Generating keypair
+2013-02-23 20:20:02 [INFO] Starting Minecraft server on *:25565
+2013-02-23 20:20:02 [INFO] Preparing level "world"
+2013-02-23 20:20:02 [INFO] Preparing start region for level 0
+2013-02-23 20:20:02 [INFO] Done (0,729s)! For help, type "help" or "?"
+2013-02-23 20:21:14 [INFO] Starting minecraft server version 1.4.7
+2013-02-23 20:21:14 [INFO] Loading properties
+2013-02-23 20:21:14 [INFO] Default game type: SURVIVAL
+2013-02-23 20:21:14 [INFO] Generating keypair
+2013-02-23 20:21:15 [INFO] Starting Minecraft server on *:25565
+2013-02-23 20:21:15 [INFO] Preparing level "world"
+2013-02-23 20:21:15 [INFO] Preparing start region for level 0
+2013-02-23 20:21:15 [INFO] Done (0,728s)! For help, type "help" or "?"
+2013-02-23 20:42:37 [INFO] Starting minecraft server version 1.4.7
+2013-02-23 20:42:37 [INFO] Loading properties
+2013-02-23 20:42:37 [INFO] Default game type: SURVIVAL
+2013-02-23 20:42:37 [INFO] Generating keypair
+2013-02-23 20:42:37 [INFO] Starting Minecraft server on *:25565
+2013-02-23 20:42:37 [INFO] Preparing level "world"
+2013-02-23 20:42:38 [INFO] Preparing start region for level 0
+2013-02-23 20:42:38 [INFO] Done (0,723s)! For help, type "help" or "?"
+2013-02-23 20:50:22 [INFO] Starting minecraft server version 1.4.7
+2013-02-23 20:50:22 [INFO] Loading properties
+2013-02-23 20:50:22 [INFO] Default game type: SURVIVAL
+2013-02-23 20:50:22 [INFO] Generating keypair
+2013-02-23 20:50:22 [INFO] Starting Minecraft server on *:25565
+2013-02-23 20:50:23 [INFO] Preparing level "world"
+2013-02-23 20:50:23 [INFO] Preparing start region for level 0
+2013-02-23 20:50:23 [INFO] Done (0,701s)! For help, type "help" or "?"
+2013-02-23 20:55:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-23 21:15:16 [INFO] Starting minecraft server version 1.4.7
+2013-02-23 21:15:16 [INFO] Loading properties
+2013-02-23 21:15:16 [INFO] Default game type: SURVIVAL
+2013-02-23 21:15:16 [INFO] Generating keypair
+2013-02-23 21:15:16 [INFO] Starting Minecraft server on *:25565
+2013-02-23 21:15:16 [INFO] Preparing level "world"
+2013-02-23 21:15:16 [INFO] Preparing start region for level 0
+2013-02-23 21:15:17 [INFO] Done (0,766s)! For help, type "help" or "?"
+2013-02-23 21:17:32 [INFO] Starting minecraft server version 1.4.7
+2013-02-23 21:17:32 [INFO] Loading properties
+2013-02-23 21:17:32 [INFO] Default game type: SURVIVAL
+2013-02-23 21:17:32 [INFO] Generating keypair
+2013-02-23 21:17:33 [INFO] Starting Minecraft server on *:25565
+2013-02-23 21:17:33 [INFO] Preparing level "world"
+2013-02-23 21:17:33 [INFO] Preparing start region for level 0
+2013-02-23 21:17:33 [INFO] Done (0,732s)! For help, type "help" or "?"
+2013-02-23 21:19:52 [INFO] Starting minecraft server version 1.4.7
+2013-02-23 21:19:52 [INFO] Loading properties
+2013-02-23 21:19:52 [INFO] Default game type: SURVIVAL
+2013-02-23 21:19:52 [INFO] Generating keypair
+2013-02-23 21:19:52 [INFO] Starting Minecraft server on *:25565
+2013-02-23 21:19:52 [INFO] Preparing level "world"
+2013-02-23 21:19:52 [INFO] Preparing start region for level 0
+2013-02-23 21:19:53 [INFO] Done (0,718s)! For help, type "help" or "?"
+2013-02-23 21:23:31 [INFO] Starting minecraft server version 1.4.7
+2013-02-23 21:23:31 [INFO] Loading properties
+2013-02-23 21:23:31 [INFO] Default game type: SURVIVAL
+2013-02-23 21:23:31 [INFO] Generating keypair
+2013-02-23 21:23:31 [INFO] Starting Minecraft server on *:25565
+2013-02-23 21:23:31 [INFO] Preparing level "world"
+2013-02-23 21:23:31 [INFO] Preparing start region for level 0
+2013-02-23 21:23:32 [INFO] Done (0,845s)! For help, type "help" or "?"
+2013-02-23 21:23:41 [INFO] Stopping server
+2013-02-23 21:23:41 [INFO] Saving players
+2013-02-23 21:23:41 [INFO] Saving worlds
+2013-02-23 21:23:41 [INFO] Saving chunks for level 'world'/Overworld
+2013-02-23 21:23:41 [INFO] Saving chunks for level 'world'/Nether
+2013-02-23 21:23:41 [INFO] Saving chunks for level 'world'/The End
+2013-02-23 21:23:41 [INFO] Stopping server
+2013-02-23 21:23:41 [INFO] Saving players
+2013-02-23 21:24:26 [INFO] Starting minecraft server version 1.4.7
+2013-02-23 21:24:26 [INFO] Loading properties
+2013-02-23 21:24:26 [INFO] Default game type: SURVIVAL
+2013-02-23 21:24:26 [INFO] Generating keypair
+2013-02-23 21:24:26 [INFO] Starting Minecraft server on *:25565
+2013-02-23 21:24:26 [INFO] Preparing level "world"
+2013-02-23 21:24:26 [INFO] Preparing start region for level 0
+2013-02-23 21:24:27 [INFO] Done (0,751s)! For help, type "help" or "?"
+2013-02-23 21:26:21 [INFO] Starting minecraft server version 1.4.7
+2013-02-23 21:26:21 [INFO] Loading properties
+2013-02-23 21:26:21 [INFO] Default game type: SURVIVAL
+2013-02-23 21:26:21 [INFO] Generating keypair
+2013-02-23 21:26:22 [INFO] Starting Minecraft server on *:25565
+2013-02-23 21:26:22 [INFO] Preparing level "world"
+2013-02-23 21:26:22 [INFO] Preparing start region for level 0
+2013-02-23 21:26:22 [INFO] Done (0,752s)! For help, type "help" or "?"
+2013-02-23 21:36:14 [INFO] Starting minecraft server version 1.4.7
+2013-02-23 21:36:14 [INFO] Loading properties
+2013-02-23 21:36:14 [INFO] Default game type: SURVIVAL
+2013-02-23 21:36:14 [INFO] Generating keypair
+2013-02-23 21:36:14 [INFO] Starting Minecraft server on *:25565
+2013-02-23 21:36:14 [INFO] Preparing level "world"
+2013-02-23 21:36:14 [INFO] Preparing start region for level 0
+2013-02-23 21:36:15 [INFO] Done (0,765s)! For help, type "help" or "?"
+2013-02-24 12:19:11 [INFO] Starting minecraft server version 1.4.7
+2013-02-24 12:19:11 [INFO] Loading properties
+2013-02-24 12:19:11 [INFO] Default game type: SURVIVAL
+2013-02-24 12:19:11 [INFO] Generating keypair
+2013-02-24 12:19:12 [INFO] Starting Minecraft server on *:25565
+2013-02-24 12:19:12 [INFO] Preparing level "world"
+2013-02-24 12:19:12 [INFO] Preparing start region for level 0
+2013-02-24 12:19:12 [INFO] Done (0,761s)! For help, type "help" or "?"
+2013-02-24 12:38:45 [INFO] Starting minecraft server version 1.4.7
+2013-02-24 12:38:45 [INFO] Loading properties
+2013-02-24 12:38:45 [INFO] Default game type: SURVIVAL
+2013-02-24 12:38:45 [INFO] Generating keypair
+2013-02-24 12:38:45 [INFO] Starting Minecraft server on *:25565
+2013-02-24 12:38:45 [INFO] Preparing level "world"
+2013-02-24 12:38:45 [INFO] Preparing start region for level 0
+2013-02-24 12:38:46 [INFO] Done (0,763s)! For help, type "help" or "?"
+2013-02-24 12:40:40 [INFO] Starting minecraft server version 1.4.7
+2013-02-24 12:40:40 [INFO] Loading properties
+2013-02-24 12:40:40 [INFO] Default game type: SURVIVAL
+2013-02-24 12:40:40 [INFO] Generating keypair
+2013-02-24 12:40:40 [INFO] Starting Minecraft server on *:25565
+2013-02-24 12:40:40 [INFO] Preparing level "world"
+2013-02-24 12:40:40 [INFO] Preparing start region for level 0
+2013-02-24 12:40:41 [INFO] Done (0,750s)! For help, type "help" or "?"
+2013-02-24 12:42:09 [INFO] /127.0.0.1:12054 lost connection
+2013-02-24 12:42:11 [INFO] TheletsplayerL[/127.0.0.1:12056] logged in with entity id 19 at (-235.5, 67.62000000476837, 252.5)
+2013-02-24 12:42:28 [INFO] TheletsplayerL tried to swim in lava
+2013-02-24 12:42:32 [INFO] TheletsplayerL lost connection: disconnect.quitting
