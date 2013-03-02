@@ -11,3 +11,6 @@ C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Serv
 C:\Users\Leon\Documents\Visual Studio 2012\Projects\TFS Projekte\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\bin\Debug\VBMSH.exe.config
 C:\Users\Leon\Documents\Visual Studio 2012\Projects\TFS Projekte\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\obj\Debug\VBMSH.exe
 C:\Users\Leon\Documents\Visual Studio 2012\Projects\TFS Projekte\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\obj\Debug\VBMSH.pdb
+C:\Users\Leon\vbsMinecraftserverhost\pre_version\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\bin\Debug\VBMSH.exe.config
+C:\Users\Leon\vbsMinecraftserverhost\pre_version\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\obj\Debug\VBMSH.exe
+C:\Users\Leon\vbsMinecraftserverhost\pre_version\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\obj\Debug\VBMSH.pdb
