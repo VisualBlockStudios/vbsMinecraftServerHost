@@ -1,1 +1,5 @@
-Here we could create the new Solution if we need to.
+Gui in Wpf works 50%
+
+Input and Output of Process needs to be connected
+server must run in the folder under Public/Documents/VisualBlock
+read comments in code
