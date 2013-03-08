@@ -1,0 +1,10 @@
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\bin\Release\VBMSH.exe.config
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\bin\Release\VBMSH.exe
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\bin\Release\VBMSH.pdb
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\obj\Release\VBMSH.installServ.resources
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\obj\Release\VBMSH.Properties.Resources.resources
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\obj\Release\VBMSH.serverScreen.resources
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\obj\Release\vbmsh.csproj.GenerateResource.Cache
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\obj\Release\VBMSH.exe
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\obj\Release\VBMSH.pdb
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\obj\Release\vbmsh.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\bin\Debug\VisualBlock's Minecraft Server-Host.exe.config
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\bin\Debug\VisualBlock's Minecraft Server-Host.exe
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\bin\Debug\VisualBlock's Minecraft Server-Host.pdb
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\obj\Debug\VisualBlock's Minecraft Server-Host.csprojResolveAssemblyReference.cache
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\obj\Debug\VisualBlock_s_Minecraft_Server_Host.installServ.resources
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\obj\Debug\VisualBlock_s_Minecraft_Server_Host.Properties.Resources.resources
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\obj\Debug\VisualBlock_s_Minecraft_Server_Host.serverScreen.resources
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\obj\Debug\VisualBlock's Minecraft Server-Host.csproj.GenerateResource.Cache
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\obj\Debug\VisualBlock's Minecraft Server-Host.exe
+C:\Users\Leon\Documents\Visual Studio 2012\Projects\VisualBlock's Minecraft Server-Host\VisualBlock's Minecraft Server-Host\obj\Debug\VisualBlock's Minecraft Server-Host.pdb
