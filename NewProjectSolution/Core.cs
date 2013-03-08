@@ -20,6 +20,7 @@ public class Core
     void Update()
     {
         //On program load look for newest Version
+		//Update logic at Runtime
     }
     public void Updater(bool latestBuild, int customBuild = latestBuildNum)
     {
